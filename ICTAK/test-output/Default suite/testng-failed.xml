@@ -8,14 +8,19 @@
           <include name="clk"/>
           <include name="tnewpost"/>
           <include name="blankid"/>
+          <include name="invalidid"/>
+          <include name="invalidpwd"/>
           <include name="signuppwd"/>
           <include name="tlogout"/>
           <include name="blankpwd"/>
           <include name="tposturl"/>
           <include name="signup"/>
+          <include name="validpwd"/>
           <include name="onSetup"/>
+          <include name="newpost"/>
           <include name="signupblnk"/>
           <include name="viewpostt"/>
+          <include name="verifylogin"/>
           <include name="blank"/>
           <include name="tpostemp"/>
         </methods>
